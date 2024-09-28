@@ -1,7 +1,8 @@
 import streamlit as st
 import google.generativeai as genai
 
-# App title
+
+#App title
 st.title("🐱 AI-powered Cat Knowledge Chatbot")
 
 # Input for Gemini API Key
